@@ -1,4 +1,4 @@
-package DP_alexandre.aula_01;
+package aula_01;
 
 public class BuscaBinaria1 {
     
